@@ -24,4 +24,4 @@ HTML + script tags -> JS bundlers -> native ESM || compile-to-native languages
 
 - [webpack](https://parceljs.org)
 
-- [SWC](https://swc.rs)
+- [SWC](https://swc.rs) (Babel alternative)
